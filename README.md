@@ -21,11 +21,9 @@ Change Management
 Cohort Analysis
 
 
-## Vendors
-[IBM Cloud AIOps](https://www.ibm.com/cloud/aiops)  
-stackstate  
-Moogsoft  
-ScienceLogic  
+
+
+
 
 
 
