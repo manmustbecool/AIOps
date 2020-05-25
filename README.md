@@ -22,7 +22,7 @@ Cohort Analysis
 
 
 ## Open Source 
-https://github.com/Tencent/bk-cmdb
+蓝鲸智云配置平台(BlueKing CMDB): https://github.com/Tencent/bk-cmdb
 
 
 
